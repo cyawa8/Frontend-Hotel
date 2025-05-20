@@ -1,1 +1,1 @@
-## Create with Next JS and Supabase
+## Create with Next JS and Supabase for the backend
